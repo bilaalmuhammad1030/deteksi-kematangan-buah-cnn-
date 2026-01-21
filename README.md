@@ -128,5 +128,5 @@ Model Xception menunjukkan performa paling stabil dan efisien dalam mendeteksi t
 🖼️ Dataset dapat diunduh melalui:
 https://www.kaggle.com/datasets/asadullahprl/fruits-ripeness-classification-dataset/data
 
-
+📘 Mahasiswa Teknik Informatika Semester 5 
 
